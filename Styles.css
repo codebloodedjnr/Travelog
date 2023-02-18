@@ -1,0 +1,107 @@
+body{
+   background-image: url("Trvlg.png");
+   background-repeat: no-repeat;
+   font-family: "Inter";
+   color: white;
+   margin: none;
+}
+#item{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+#navbarSupportedContent{
+   padding-left: 10em;
+   padding-right: 3em;
+   font-size: 24px;
+   line-height: 29px;
+}
+.navbar-brand{
+   font-size: 48px;
+   line-height: 58px;
+   padding: 10px;
+   font-weight: 800;
+}
+.d-flex{
+   padding-right: 10px;
+   padding-left: 30px;
+}
+#nav-main{
+   padding-top: 5px;
+   margin-left: 5px;
+}
+.form-control{
+   border-radius: 20px;
+   border: none;
+   opacity: 80%;
+   width: 180px
+}
+#navigation-bar{
+   padding-top: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.mbody{
+   font-family: "Inter";
+   font-size: 60px;
+   font-weight: 800;
+   line-height: 80px;
+   text-align: left;
+   margin-left: 30px;
+   padding-left: 25px;
+}
+.Lorem{
+   text-align: left;
+   margin-left: 30px;
+   padding-left: 25px;
+   padding-top: 20px;
+   font-size: 20px;
+}
+.button{
+   text-align: left;
+   margin-left: 30px;
+   padding-left: 25px;
+   padding-top: 20px;
+   font-size: 20px;
+}
+.book-now{
+   height: 50px;
+   width: 200px;
+   left: 140px;
+   top: 677px;
+   opacity: 80%;
+   border: none;
+   border-radius: 80px;
+   padding: 10px;
+   color:black;
+   font-weight: 600;
+   background-color: white;
+}
+#main-content{
+   padding-top: 50px;
+}
+#footer{
+   margin-left: 20rem;
+   padding-top: 20rem;
+}
+.card{
+   background-color: #fad3cd;
+   opacity: 80%;
+   backdrop-filter: blur(4px);
+   position: relative;
+   display: inline-block;
+   border-radius: 40px;
+   color: white;
+}
+.card-title{
+   text-align: center;
+   padding-top: 10px;
+   font-weight: 600;
+}
+.card-text{
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 40px;
+}
+.line{
+   height: 2.5px;
+}
