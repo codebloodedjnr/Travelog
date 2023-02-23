@@ -105,3 +105,6 @@ body{
 .line{
    height: 2.5px;
 }
+.btn{
+   border-radius: 20px;
+}
