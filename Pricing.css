@@ -1,25 +1,7 @@
 body{
-    background-image: url("Trvlg4.jpg");
-    background-repeat: no-repeat;
     font-family: "Inter";
     color: white;
     margin: none;
  }
- h1{
-    display: flex;
-    justify-content: center;
-    padding-top: 50px;
-    font-size: 40px;
-    font-weight: 800;
-    color:rgb(153, 50, 249);
-    font-family: "Inter";
-}
-.card{
-    margin-left: 25rem;
-    background-color: plum;
-    opacity: 70%;
-}
- #pricing{
-    padding-top: 60px;
- }
+ 
  
